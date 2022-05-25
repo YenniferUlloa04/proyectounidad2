@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(72, 248, 248);
+    }
+
+.bloquetitulo1{
+
+    text-align: center;
+    background-color: rgb(182, 99, 250);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.parrafotitulo1{
+
+    text-align: center;
+    background-color: rgb(255, 254, 254);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.promedio{
+
+    text-align: center;
+    background-color: rgb(182, 99, 250);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mapa{
+
+    text-align: center;
+}
+
+.imagenes{
+    text-align: center;
+}
